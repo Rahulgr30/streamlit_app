@@ -1,1 +1,3 @@
-My first streamlit
+import streamlit
+
+streamlit.title("My First App")
