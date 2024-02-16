@@ -2,7 +2,7 @@ import streamlit
 import pandas
 import requests
 import snowflake.connector
-from ullib.error import URLError
+from urlib.error import URLError
 
 streamlit.title("My First App")
 streamlit.header('Breakfast Menu')
